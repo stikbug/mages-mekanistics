@@ -1,4 +1,4 @@
-package net.iceforkkk.mage_meka;
+package net.Iceforkkk.mage_meka;
 
 import java.util.List;
 
