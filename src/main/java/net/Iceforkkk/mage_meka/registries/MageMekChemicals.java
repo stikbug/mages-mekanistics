@@ -7,6 +7,7 @@ import mekanism.common.registration.impl.ChemicalDeferredRegister;
 import mekanism.common.registration.impl.DeferredChemical;
 import mekanism.common.resource.PrimaryResource;
 import mekanism.common.util.EnumUtils;
+import net.Iceforkkk.mage_meka.MageMekChemicalConstants;
 
 import static mekanism.common.registries.MekanismChemicals.PIGMENT_COLOR_LOOKUP;
 import static mekanism.common.registries.MekanismChemicals.PROCESSED_RESOURCES;

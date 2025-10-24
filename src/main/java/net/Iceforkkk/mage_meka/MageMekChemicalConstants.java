@@ -1,4 +1,4 @@
-package net.Iceforkkk.mage_meka.registries;
+package net.Iceforkkk.mage_meka;
 
 import mekanism.common.base.IChemicalConstant;
 
